@@ -20,8 +20,10 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="GCP"  alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  
+  <img src="[https://github.com/devicons](https://github.com/devicons)/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+   <img src="[https://github.com/devicons](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
